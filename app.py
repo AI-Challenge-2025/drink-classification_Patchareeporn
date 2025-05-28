@@ -8,7 +8,7 @@ from torchvision import models  # ดึงโมเดลสำเร็จร�
 import os  # ใช้จัดการไฟล์/โฟลเดอร์ (ในกรณีจำเป็น)
 
 # ระบุ path ของไฟล์โมเดลที่ train มาแล้ว
-model_path = 'drink_classification.pth'
+model_path = 'model/drink_classification.pth'
 
 # เลือกใช้ GPU ถ้ามี ถ้าไม่มีก็ใช้ CPU
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
