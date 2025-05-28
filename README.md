@@ -65,7 +65,7 @@
 - OpenCV
 
 📞 ติดต่อผู้พัฒนา 💌
-ชื่อ: พัชรีพร พฤฒิสาร
-รหัสนิสิต: 65050099
-อีเมล: ninilnarissara@gmail.com (กรุณาแก้เป็นอีเมลจริง)
-GitHub: https://github.com/AI-Challenge-2025/drink-classification_Patchareeporn
+- ชื่อ: พัชรีพร พฤฒิสาร
+- รหัสนิสิต: 65050099
+- อีเมล: ninilnarissara@gmail.com
+- GitHub: https://github.com/AI-Challenge-2025/drink-classification_Patchareeporn
